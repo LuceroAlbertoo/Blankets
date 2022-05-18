@@ -1,0 +1,24 @@
+html{border: solid grey;}
+
+body {
+    background: #979f89;
+    
+}
+
+.one {
+    display: flex;
+    justify-content: center;
+    color: yellow;
+    background: lightblue;
+    border: dotted 5px white;
+    padding: 15px;
+}
+
+.three {
+    display: flex;
+    justify-content: space-around;
+    background-color: #ffb89e;
+    margin: 10px;
+    padding: 5px;
+    border: double 5px #463754;
+}
